@@ -51,7 +51,7 @@ p {
   font-size: 16px;
 }
 
-.hero {
+figure {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -100,7 +100,7 @@ p {
   max-width: 150px;
 }
 
-.contents {
+section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -109,11 +109,11 @@ p {
   color: #ffffff;
 }
 
-.contents img {
+section img {
   max-height: 200px;
 }
 
-.contents h2 {
+section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
