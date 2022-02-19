@@ -1,14 +1,14 @@
 # horiseon1
 
 ## Description
-
+Refactored code from homework 1 assignment
 ## Links
 
-Deplyed Project
+Deployed Project
 
-repo link
+https://github.com/jasonsmind/horiseon1
 
-deployed link
+https://jasonsmind.github.io/horiseon1/
 
 ## Images
 
