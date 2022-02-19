@@ -12,4 +12,4 @@ https://jasonsmind.github.io/horiseon1/
 
 ## Images
 
-![horiseon1](horiseon1-screencap.png)
+![horiseon1](./assets/images/horiseon1-screencap.png)
