@@ -6,7 +6,7 @@ Refactored code from homework 1 assignment
 
 Deployed Project
 
-repo link
+https://github.com/jasonsmind/horiseon1
 
 https://jasonsmind.github.io/horiseon1/
 
