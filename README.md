@@ -1,10 +1,10 @@
 # horiseon1
 
 ## Description
-
+Refactored code from homework 1 assignment
 ## Links
 
-Deplyed Project
+Deployed Project
 
 repo link
 
