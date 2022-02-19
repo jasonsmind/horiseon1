@@ -8,7 +8,7 @@ Deployed Project
 
 repo link
 
-deployed link
+https://jasonsmind.github.io/horiseon1/
 
 ## Images
 
